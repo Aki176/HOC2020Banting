@@ -1,4 +1,4 @@
-# HOC2020Banting
+# DanMachi-Tower-Defense
 DanMachi Tower Defense Game for HOC2020 at Banting SS
 
 ## How to play
