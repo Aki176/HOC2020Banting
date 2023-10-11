@@ -1,5 +1,5 @@
 # HOC2020Banting
-DanMachi TD Game for HOC2020 at Banting
+DanMachi Tower Defense Game for HOC2020 at Banting SS
 
 ## How to play
 1. You need Python 3.x
