@@ -1,5 +1,8 @@
-# DanMachi-Tower-Defense
-🏰 DanMachi Tower Defense Game for Hour Of Code 2020 at Banting SS
+<div>
+<h1 align="center">DanMachi-Tower-Defense</h1>
+</div>
+<center>🏰 DanMachi Tower Defense Game for Hour Of Code 2020 at Banting SS</center>
+<br></br>
 
 ## How to play
 1. You need Python 3.x
